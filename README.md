@@ -2,7 +2,7 @@
 
 Односторінковий лендінг дизайн-агенції Keepsake за макетом у Figma.
 
-**Демо:** https://ВАШ-ЛОГІН.github.io/landing-keepsake/  <!-- замініть після публікації на GitHub Pages -->
+**Демо:** https://sofiasophiasofia.github.io/landing-keepsake/
 
 ## Технології та рішення
 
